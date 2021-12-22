@@ -4,7 +4,7 @@
 <img align="right" width="250" height="250" style="border-radius:30px;" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611bb9080ff5e01e8c35382315798c1c88c30bf4d15&rid=giphy.gif&ct=g" />
 <p> - 👨‍💻 Currently front-end developer, honing back-end skills and focused on full-stack. </p>
 <p> - 👨‍🎓 Always studying and developing with the most current resources. </p>
-<p> - 🎯 Interest in: JavaScript, Typescript, Bootstrapi, NodeJS, HTML, CSS, React, NextJS, API, MySQL, NoSQL, AWS, Oracle e Docker. </p>
+<p> - 🎯 Interest in: JavaScript, Typescript, Bootstrap, NodeJS, HTML, CSS, React, NextJS, API, MySQL, NoSQL, AWS, Oracle e Docker. </p>
   
   ----
   
