@@ -34,7 +34,7 @@
 <a href="https://github.com/fesnetto">
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=fesnetto&show_icons=true&theme=cobalt" style="max-width:100%;"/>
 </a>
-<a href="https://github.com/fernandonetto">
+<a href="https://github.com/fesnetto">
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesnetto&layout=compact&show_icons=true&theme=cobalt" style="max-width:100%;"/>
 </a>
 <h3 align="left">Languages and Tools:</h3>
